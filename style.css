@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  background-color: blanchedalmond;
+}
+
+div{
+    display: inline-block;
+    width: 250px;
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+   color: indianred;
+}
+
+button{
+    font-size: 40px;
+    padding: 10px;
+    border-radius:  10px;
+    margin: 20px;
+    background-color: rgb(25,243,205);
+    position: fixed;
+    left: 35%;
+    top: 50%;
+}
+
+#container{
+    text-align: center;
+    
+}
+
